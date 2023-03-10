@@ -1,1 +1,1 @@
-my first readme
+## Lesson on shell basics
